@@ -21,6 +21,8 @@ The camera support makes the big difference with the latest ESP32-S3, it’s the
 
 Finally, we use regulators to adapt our voltage with the power supply of the circuit.
 
+you could see our results plotted in Plot Serial of arduino ide, It represents percentage of a person detection.
+
 JLCPCB link: https://jlcpcb.com/HAR
 
 
